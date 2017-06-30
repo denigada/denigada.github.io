@@ -1135,7 +1135,7 @@ li span{
 }
 @media (max-width: 767px) {
     .contact-home-text {
-    padding-top:0px !important;
+    padding-top:0 !important;
   }
   .banner-intro h1 {
     font-size: 17px;
