@@ -411,6 +411,9 @@ hr.separator {
   .header-v2 .navbar-nav {
     background-color: transparent;
   }
+    .contact-home-text {
+    padding: 0px 0;
+  }
 }
 /**price tables**/
 .pricing-section {
@@ -1128,7 +1131,7 @@ li span{
 
 @media (max-width: 991px) {
   .contact-home-text {
-    padding: 0px 0;
+    padding: 40px 0;
   }
     
 }
