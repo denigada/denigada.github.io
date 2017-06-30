@@ -8,7 +8,11 @@
 @import "https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,900";
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
 /**colors**/
-
+.box-image{
+    display: block;
+    max-width: 140%;
+    height: auto;
+}
 .red {
   color: #f55b63;
 }
@@ -1131,12 +1135,21 @@ li span{
   .contact-home-text {
     padding: 40px 0;
   }
-    
+    .box-image{
+    display: block;
+    max-width: 120%;
+    height: auto;
+}
 }
 @media (max-width: 767px) {
     .contact-home-text {
     padding-top:0 !important;
   }
+    .box-image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
   .banner-intro h1 {
     font-size: 17px;
     line-height: 10px;
