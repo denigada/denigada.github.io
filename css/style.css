@@ -36,6 +36,9 @@
 body, html {
   height: 100%;
 }
+.modal-dialog{
+    width:500px;
+}
 
 body {
   font-family: "Roboto", sans-serif;
@@ -1140,6 +1143,7 @@ li span{
     max-width: 120%;
     height: auto;
 }
+    
 }
 @media (max-width: 767px) {
     .contact-home-text {
@@ -1149,6 +1153,9 @@ li span{
     display: block;
     max-width: 100%;
     height: auto;
+}
+    .modal-dialog{
+    width:95%;
 }
   .banner-intro h1 {
     font-size: 17px;
