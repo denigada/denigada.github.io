@@ -12,7 +12,7 @@
     display: block;
     max-width: 120%;
     height: auto;
-    margin-top: -10px;
+    margin-top: -27px;
 }
 .red {
   color: #f55b63;
@@ -1143,6 +1143,7 @@ li span{
     display: block;
     max-width: 120%;
     height: auto;
+        margin-top: 0px;
 }
     
 }
@@ -1154,6 +1155,7 @@ li span{
     display: block;
     max-width: 100%;
     height: auto;
+         margin-top: 0px;
 }
     .modal-dialog{
     width:95%;
